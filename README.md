@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interrested in technical stuff!<br>👀Exploring in Artificial Intelligence<br>
+Interested in technical stuff!<br>👀Exploring in Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
