@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="python" /></p>
 
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-a666&show_icons=true&locale=en&layout=compact" alt="vivek-a666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-a666&show_icons=true&locale=en" alt="vivek-a666" /></p>
