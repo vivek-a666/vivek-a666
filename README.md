@@ -16,9 +16,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://badges.aleen42.com/src/git.svg" alt="badge"/>
-
-
+[python
+](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-a666&show_icons=true&locale=en&layout=compact" alt="vivek-a666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-a666&show_icons=true&locale=en" alt="vivek-a666" /></p>
