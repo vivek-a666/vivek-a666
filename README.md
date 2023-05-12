@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=F7F7F7&background=FFFFFF00&width=435&lines=Hi+I+am%2C+Vivek;Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 <h3 align="center">Passion for Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-a666&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-a666" /> </p>
