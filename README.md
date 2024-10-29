@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=400&color=27F7E7&width=435&lines=Hi%F0%9F%91%8B+I+am%2C+Vivek;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<h3>Passion for Data Science</h3>
+<h3>Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-a666&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-a666" /> </p>
 
