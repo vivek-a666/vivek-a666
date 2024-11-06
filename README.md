@@ -15,7 +15,7 @@
 
 <h3 align="left">Skills and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,c,git,docker,codepen,flask,github,mongodb,postman,pytorch,tensorflow	)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,redux,cs,js,python,postgres,nodejs,git,github,postman,visualstudio,supabase,docker,aws	)](https://skillicons.dev)<br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-a666&show_icons=true&locale=en&layout=compact" alt="vivek-a666" /></p>
 
