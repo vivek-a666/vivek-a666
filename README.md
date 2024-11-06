@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://privategitstats.vercel.app/api?username=vivek-a666&show_icons=true&locale=en" alt="vivek-a666" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-a666&" alt="vivek-a666" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-ebon-one.vercel.app?user=vivek_a666)](https://git.io/streak-stats)
