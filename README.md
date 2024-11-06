@@ -17,8 +17,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,redux,cs,js,python,postgres,nodejs,git,github,postman,visualstudio,supabase,docker,aws	)](https://skillicons.dev)<br>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-a666&show_icons=true&locale=en&layout=compact" alt="vivek-a666" /></p>
+<p><img align="left" src="https://privategitstats.vercel.app/api/top-langs?username=vivek-a666&show_icons=true&locale=en&layout=compact" alt="vivek-a666" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-a666&show_icons=true&locale=en" alt="vivek-a666" /></p>
+<p>&nbsp;<img align="center" src="https://privategitstats.vercel.app/api?username=vivek-a666&show_icons=true&locale=en" alt="vivek-a666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-a666&" alt="vivek-a666" /></p>
